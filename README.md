@@ -1,7 +1,7 @@
-##### This repository contains code for:
+### This repository contains code for:
  - Knowledge-driven Visual Question Answering via Late Knowledge-to-Text Injection
 
-##### Our code is based on FiD:
+### Our code is based on FiD:
 - Distilling Knowledge from Reader to Retriever:https://arxiv.org/abs/2012.04584. 
 - [Github link to FiD](https://github.com/facebookresearch/FiD)
 

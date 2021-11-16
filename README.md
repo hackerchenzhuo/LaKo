@@ -29,8 +29,6 @@ bash run_okvqa_full.sh
 ```
 
 
-```
-
 ### Test
 
 ```shell

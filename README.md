@@ -16,8 +16,6 @@ This repository contains code for:
 
 ### Train
 
-**Note**: 
-- you can open the `.sh` file for <a href="#Parameter">parameter</a> modification.
 
 ```shell
 bash run_okvqa_train.sh
@@ -35,4 +33,7 @@ bash run_okvqa_full.sh
 bash run_okvqa_tst.sh
 ```
 
+
+**Note**: 
+- you can open the `.sh` file for <a href="#Parameter">parameter</a> modification.
 

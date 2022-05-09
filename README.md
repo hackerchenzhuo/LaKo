@@ -30,7 +30,7 @@ bash run_okvqa_full.sh
 ### Test
 
 ```shell
-bash run_okvqa_tst.sh
+bash run_okvqa_test.sh
 ```
 
 

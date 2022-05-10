@@ -4,8 +4,8 @@ version="01";
 iter="no";
 dataset="okvqa";
 model_size="large";
-stream=1;
-use_fact="no";
+stream=2;
+use_fact="yes";
 n_context=10;
 text_maxlength=130;
 # mean / max / 21mean /

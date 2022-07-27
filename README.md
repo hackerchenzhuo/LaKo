@@ -1,5 +1,5 @@
 ### This repository contains code for:
- - Knowledge-driven Visual Question Answering via Late Knowledge-to-Text Injection
+ - LaKo: Knowledge-driven Visual Question Answering via Late Knowledge-to-Text Injection
 
 ### Our code is based on FiD:
 - Distilling Knowledge from Reader to Retriever:https://arxiv.org/abs/2012.04584. 

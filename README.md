@@ -42,7 +42,6 @@ bash run_okvqa_test.sh
 ```
 
 
-
 **Note**: 
 - you can open the `.sh` file for <a href="#Parameter">parameter</a> modification.
 

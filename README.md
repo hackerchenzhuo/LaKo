@@ -49,3 +49,4 @@ bash run_okvqa_test.sh
 - Distilling Knowledge from Reader to Retriever:https://arxiv.org/abs/2012.04584. 
 - [Github link to FiD](https://github.com/facebookresearch/FiD)
 
+ 

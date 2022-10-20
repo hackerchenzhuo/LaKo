@@ -41,7 +41,6 @@ bash run_okvqa_full.sh
 bash run_okvqa_test.sh
 ```
 
-
 **Note**: 
 - you can open the `.sh` file for <a href="#Parameter">parameter</a> modification.
 
@@ -49,4 +48,23 @@ bash run_okvqa_test.sh
 - Distilling Knowledge from Reader to Retriever:https://arxiv.org/abs/2012.04584. 
 - [Github link to FiD](https://github.com/facebookresearch/FiD)
 
+## Cite:
+Please condiser citing this paper if you use the code
+```bigquery
+@article{DBLP:journals/corr/abs-2207-12888,
+  author    = {Zhuo Chen and
+               Yufeng Huang and
+               Jiaoyan Chen and
+               Yuxia Geng and
+               Yin Fang and
+               Jeff Z. Pan and
+               Ningyu Zhang and
+               Wen Zhang},
+  title     = {LaKo: Knowledge-driven Visual Question Answering via Late Knowledge-to-Text
+               Injection},
+  journal   = {CoRR},
+  volume    = {abs/2207.12888},
+  year      = {2022}
+}
+```
  

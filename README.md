@@ -49,7 +49,9 @@ bash run_okvqa_test.sh
 - [Github link to FiD](https://github.com/facebookresearch/FiD)
 
 ## Cite:
-Please condiser citing this paper if you use the code
+Please condiser citing this paper if you use the code or data from our work.
+Thanks a lot :)
+
 ```bigquery
 @article{DBLP:journals/corr/abs-2207-12888,
   author    = {Zhuo Chen and

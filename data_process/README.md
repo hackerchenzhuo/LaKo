@@ -1,3 +1,3 @@
-- First, unzip data_source.zip
+- ```unzip data_source.zip```
 
-- Then, run vqa2_deal.py to generate fact
+- ```python vqa2_deal.py``` to generate the fact files

@@ -49,7 +49,7 @@ bash run_okvqa_test.sh
 - [Github link to FiD](https://github.com/facebookresearch/FiD)
 
 ## Cite:
-Please condiser citing this paper if you use the code or data from our work.
+Please condiser citing this paper if you use the ```code``` or ```data``` from our work.
 Thanks a lot :)
 
 ```bigquery
@@ -69,4 +69,3 @@ Thanks a lot :)
   year      = {2022}
 }
 ```
- 

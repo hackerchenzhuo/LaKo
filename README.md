@@ -19,6 +19,7 @@
 - [PyTorch](http://pytorch.org/) (>= 1.6.0)
 - [Transformers](http://huggingface.co/transformers/) (**version 3.0.2**)
 - [NumPy](http://www.numpy.org/)
+- faiss-cpu
 
 
 

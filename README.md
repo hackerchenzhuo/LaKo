@@ -43,6 +43,7 @@ bash run_okvqa_test.sh
 ```
 
 **Note**: 
+- Please first **pre-train** LaKo (large version) on ```VQA2.0``` then **re-train** on ```OKVQA``` for better performance.
 - you can open the `.sh` file for <a href="#Parameter">parameter</a> modification.
 
 ### Our code is based on FiD:

@@ -145,7 +145,7 @@ def top_500kg(trains, img2caption, image2text, four_tuple):
 
     print(len(okvqa_train_list))
 
-    with open("save/vqa2_train_t5_3_v5_frequent_bm25", "w") as ffp:
+    with open("save/vqa2_train_t5_3_v5_frequent_bm25.json", "w") as ffp:
         json.dump(okvqa_train_list, ffp)
 
 

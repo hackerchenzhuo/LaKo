@@ -24,7 +24,7 @@
 
 
 ### Train
-
+<img align="right" alt="GIF" src="https://github.com/hackerchenzhuo/LaKo/blob/main/figure/Decoder.gif"  width="40%" height="auto" />
 
 ```shell
 bash run_okvqa_train.sh
@@ -45,7 +45,7 @@ bash run_okvqa_test.sh
 **Note**: 
 - Please first **pre-train** LaKo (large version) on ```VQA2.0``` then **re-train** on ```OKVQA``` for better performance.
 - you can open the `.sh` file for <a href="#Parameter">parameter</a> modification.
-<img align="right" alt="GIF" src="https://github.com/hackerchenzhuo/LaKo/blob/main/figure/Decoder.gif"  width="30%" height="auto" />
+
 
 ### Our code is based on FiD:
 - Distilling Knowledge from Reader to Retriever:https://arxiv.org/abs/2012.04584. 

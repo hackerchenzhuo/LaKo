@@ -10,10 +10,10 @@
 
 
 
-## Model Architecture
+## 🌈 Model Architecture
 ![Model_architecture](https://github.com/hackerchenzhuo/LaKo/blob/main/figure/github.png)
 
-## Dependencies
+## 📚 Dependencies
 
 - Python 3
 - [PyTorch](http://pytorch.org/) (>= 1.6.0)
@@ -23,7 +23,7 @@
 
 
 
-### Train
+### 🚀 Train
 <img align="right" alt="GIF" src="https://github.com/hackerchenzhuo/LaKo/blob/main/figure/Decoder.gif"  width="40%" height="auto" />
 
 ```shell
@@ -36,15 +36,15 @@ bash run_okvqa_full.sh
 ```
 
 
-### Test
+### 🚀 Test
 
 ```shell
 bash run_okvqa_test.sh
 ```
 
-**Note**: 
-- Please first **pre-train** LaKo (large version) on ```VQA2.0``` then **re-train** on ```OKVQA``` for better performance.
-- you can open the `.sh` file for <a href="#Parameter">parameter</a> modification.
+### ❗ Note
+- ```(Optional)``` You can first **pre-train** LaKo (large version) on ```VQA2.0``` then **re-train** on ```OKVQA``` for better performance.
+- You can open the `.sh` file for <a href="#Parameter">parameter</a> modification.
 
 
 ### Our code is based on FiD:
@@ -56,7 +56,7 @@ Please condiser citing this paper if you use the ```code``` or ```data``` from o
 Thanks a lot :)
 
 ```bigquery
-@article{DBLP:journals/corr/abs-2207-12888,
+@inproceedings{DBLP:conf/jist/0007HCGFP0Z22,
   author    = {Zhuo Chen and
                Yufeng Huang and
                Jiaoyan Chen and
@@ -67,8 +67,9 @@ Thanks a lot :)
                Wen Zhang},
   title     = {LaKo: Knowledge-driven Visual Question Answering via Late Knowledge-to-Text
                Injection},
-  journal   = {CoRR},
-  volume    = {abs/2207.12888},
+  booktitle = {{IJCKG}},
+  pages     = {20--29},
+  publisher = {{ACM}},
   year      = {2022}
 }
 ```

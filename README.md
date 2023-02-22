@@ -45,6 +45,7 @@ bash run_okvqa_test.sh
 ### ❗ Note
 - ```(Optional)``` You can first **pre-train** LaKo (large version) on ```VQA2.0``` then **re-train** on ```OKVQA``` for better performance.
 - You can open the `.sh` file for <a href="#Parameter">parameter</a> modification.
+- The latest Transformers (e.g., 4.XX.XX) have some differences from the older version, which may lead to some unexpected error.
 
 
 ### Our code is based on FiD:

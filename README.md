@@ -52,7 +52,10 @@ bash run_okvqa_test.sh
 - Distilling Knowledge from Reader to Retriever:https://arxiv.org/abs/2012.04584. 
 - [Github link to FiD](https://github.com/facebookresearch/FiD)
 
-## Cite:
+## 🔬 Paradigm
+<img align="middle" src="https://github.com/hackerchenzhuo/LaKo/blob/main/figure/prarad.png"  width="35%" height="auto" />
+
+## 🤝 Cite:
 Please condiser citing this paper if you use the ```code``` or ```data``` from our work.
 Thanks a lot :)
 
@@ -74,3 +77,6 @@ Thanks a lot :)
   year      = {2022}
 }
 ```
+
+
+

@@ -21,7 +21,8 @@
 - [NumPy](http://www.numpy.org/)
 - faiss-cpu
 
-
+### 🧰 Datasets
+- `Training` **`Data`** `and` **`KGs`** is available [here](https://github.com/hackerchenzhuo/LaKo/tree/main/data_process)
 
 ### 🚀 Train
 <img align="right" alt="GIF" src="https://github.com/hackerchenzhuo/LaKo/blob/main/figure/Decoder.gif"  width="40%" height="auto" />

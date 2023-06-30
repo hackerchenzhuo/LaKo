@@ -23,7 +23,7 @@
 
 ### 🧰 Datasets
 - `Training` **`Data`** `and` **`KGs`** is available [here](https://github.com/hackerchenzhuo/LaKo/tree/main/data_process)
-- In contrast to `data_source.zip`, we provide a processing script and some source data for both vqa2 and okvqa datasets. **We provided  [Baidu Cloud](https://pan.baidu.com/s/1vfnLluKvSh7qpC6oTJx1_Q) (password:r42d)**.
+- In contrast to `data_source.zip`, we provide a processing script and some source data for both vqa2 and okvqa datasets. **We provided  [Baidu Cloud](https://pan.baidu.com/s/1vfnLluKvSh7qpC6oTJx1_Q) (password:r42d) and [Google Link](https://drive.google.com/file/d/1NQxON0BgxFQQaFpICBbUW4Rr4sGsCfdw/view?usp=sharing)**.
 
 ### 🚀 Train
 <img align="right" alt="GIF" src="https://github.com/hackerchenzhuo/LaKo/blob/main/figure/Decoder.gif"  width="40%" height="auto" />

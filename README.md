@@ -8,7 +8,8 @@
 
 >In this paper, we propose LaKo, a knowledge-driven VQA method via Late Knowledge-to-text Injection. To effectively incorporate an external KG, we transfer triples into text and propose a late injection mechanism. Finally we address VQA as a text generation task with an effective encoder-decoder paradigm. 
 
-
+ ## 🔔 News
+- **`2024-02` We preprint our Survey [Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391)  [[`Repo`](https://github.com/zjukg/KG-MM-Survey)].**
 
 ## 🌈 Model Architecture
 ![Model_architecture](https://github.com/hackerchenzhuo/LaKo/blob/main/figure/github.png)
